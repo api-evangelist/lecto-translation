@@ -1,0 +1,32 @@
+aid: lecto-translation
+name: Lecto Translation
+description: "Translation API with free tier and reasonable prices"
+url: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Lecto Translation
+    description: "Translation API with free tier and reasonable prices"
+    humanURL: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+    baseURL: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+common:
+  - type: Website
+    url: https://rapidapi.com/lecto-lecto-default/api/lecto-translation/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
